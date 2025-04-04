@@ -1,6 +1,6 @@
 # 🚀 Twikit Happens - Twitter Automation Made Easy
 
-![Twitter Bird Animation](https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif)
+<img width="744" alt="Screenshot 2025-04-04 at 21 56 59" src="https://github.com/user-attachments/assets/c4cbcdd9-49c4-408a-86b8-ae83bc9586bc" />
 
 A **powerful framework** for building Twitter/X bots, scrapers, and automation tools using the [Twikit](https://twikit.readthedocs.io/) library.
 
