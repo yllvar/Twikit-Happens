@@ -1,0 +1,6 @@
+twikit
+python-dotenv
+requests
+typing-extensions
+black
+pytest
