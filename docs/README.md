@@ -59,9 +59,8 @@ twikit_happens/
 pip install twikit-happens
 
 # From source
-git clone https://github.com/yourusername/twikit-happens.git
+git clone https://github.com/yllvar/twikit-happens.git
 cd twikit-happens
-pip install -e .
 ```
 
 ### 2️⃣ Configure
